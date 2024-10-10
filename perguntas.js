@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O que significa OMS',
+    'Significa Organziaçao mundial da saude'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz morango em Inglês?',
+    'morango em ingles é strawberry (strÓ-be-rÍ)'
 )
